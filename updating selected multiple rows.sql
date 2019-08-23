@@ -1,4 +1,5 @@
 --code to update multiple rows using subquary in where statement
+
 --note:first we need to disable safe upadate mode which only allows to update one row at time.
 use sql_store;
 UPDATE orders
