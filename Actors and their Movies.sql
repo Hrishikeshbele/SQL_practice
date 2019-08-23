@@ -1,7 +1,7 @@
-'''
+/*
 Write a SQL Query to find the name of those movies where one or more actors acted in two or more movies.
 
-'''
+*/
 -- idea here is to first find the actor_id of actors who worked have worked in more than one movies and then find the movies title using them
 select movie_title
 
