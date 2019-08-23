@@ -1,8 +1,8 @@
-'''
+/*
 Write a SQL Query to find the movie_title and name of director (first and last names combined) who directed a movie 
 that casted a role as ‘SeanMaguire’.
 
-'''
+*/
 --main idea here is first get movie_id and then find director_id from it and name of the director from director_id
 
 -- we use trim to remove spaces in string and add them by using concat functn
