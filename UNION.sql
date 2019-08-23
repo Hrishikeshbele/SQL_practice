@@ -1,6 +1,7 @@
-'''
-combinining different quaries results using union operator and adding label to each queries.
-'''
+
+-- combinining different quaries results using union operator and adding label to each queries.
+
+
 SELECT  customer_id,first_name,points,'Bronze' AS type
 FROM sql_store.customers
 WHERE points<2000
