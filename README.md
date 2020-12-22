@@ -1,2 +1,2 @@
 # SQL_practice
-This repository contains  my solutions to different SQL problem I have solved
+This repository contains  my solutions to some of SQL problem I have solved .
